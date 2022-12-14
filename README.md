@@ -1,1 +1,0 @@
-# edx-week1-challenge1
